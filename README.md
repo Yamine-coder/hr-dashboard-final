@@ -59,7 +59,7 @@ Ce projet est sous licence MIT — libre d’utilisation, modification et partag
 **Yamine Moussaoui**  
 🎓 MSc IA & Big Data  
 💼 Consultant en Solutions Data & IA  
-🔗 [LinkedIn]([https://www.linkedin.com/in/yamine-moussaoui/](https://www.linkedin.com/in/yamine-moussaoui-672a25205/))  
+🔗 [LinkedIn] (https://www.linkedin.com/in/yamine-moussaoui-672a25205/))  
 📧 moussaouiyamine1@gmail.com  
 🔎 [GitHub](https://github.com/Yamine-coder)
 
